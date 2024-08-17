@@ -1,0 +1,17 @@
+{
+  "name": "betacrew-client",
+  "version": "1.0.0",
+  "description": "Node client to interact with BetaCrew mock exchange server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "net": "^1.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

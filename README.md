@@ -33,9 +33,8 @@ BetaCrewClient/
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/your-username/BetaCrewClient.git
-   cd BetaCrewClient
+https://github.com/Abhis-45/betacrew_test.git
+
 Install Dependencies
 
 Run the following command to install the required dependencies:

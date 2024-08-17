@@ -4,17 +4,6 @@ A Node.js client application to interact with the BetaCrew mock exchange server.
 
 ## Project Structure
 
-
-Here's a sample README.md file for your project:
-
-markdown
-Copy code
-# BetaCrewClient
-
-A Node.js client application to interact with the BetaCrew mock exchange server. This client requests and receives stock ticker data from the server and generates a JSON file containing all packets without any missing sequences.
-
-## Project Structure
-
 BetaCrewClient/
 │
 ├── src/
